@@ -23,5 +23,5 @@ I developed the annotation automation code, and later, I referenced Kaggle's Dog
 https://www.kaggle.com/code/hengzheng/dog-breeds-classifier/notebook
 
 ## Achievement
-Optimizing data setup efficiency by developing an automated annotation tool
-Improving the dog breed classification model to better align with the domestic environment by integrating popular breeds in South Korea
+1.Optimizing data setup efficiency by developing an automated annotation tool.
+2.Improving the dog breed classification model to better align with the domestic environment by integrating popular breeds in South Korea.
